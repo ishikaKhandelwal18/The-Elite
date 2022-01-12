@@ -6,8 +6,8 @@ In the website or the app we will give all the the info regarding earthquakes,wh
 
 
 Team Members Name-
-Ishika Khandelwal
-Honey Gupta
+Ishika Khandelwal,
+Honey Gupta,
 Pranjali Jain
 
 
